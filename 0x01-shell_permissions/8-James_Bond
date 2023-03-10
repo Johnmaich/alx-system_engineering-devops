@@ -1,2 +1,2 @@
-#!/bbin/bash
-chnod 007 hello
+#!/bin/bash
+chmod 007 hello
